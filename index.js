@@ -7,6 +7,8 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-newID = oldID + 1000000000
+newID = oldID + 1000000000;
 
-ageIsValid = Number.isInteger(currentAge)
+ageIsValid = Number.isInteger(currentAge);
+
+randonNumber = Math.floor(Math.Random() * 20) + 1;
