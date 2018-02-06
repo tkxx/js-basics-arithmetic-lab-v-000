@@ -11,4 +11,6 @@ newID = oldID + 1000000000;
 
 ageIsValid = Number.isInteger(currentAge);
 
-randomNumber = Math.floor(Math.Random() * 20) + 1;
+randomNumber = Math.Random() * 20) + 1;
+
+randomInteger = 
